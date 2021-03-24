@@ -4,7 +4,7 @@ public class Codigo {
 
 	public static void main(String[] args) {
 		
-		JOptionPane.showMessageDialog(null, "Trabalho de PDFA!");
+		JOptionPane.showMessageDialog(null, "Trabalho de PFDA!");
 
 	}
 
